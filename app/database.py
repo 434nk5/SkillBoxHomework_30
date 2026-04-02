@@ -1,3 +1,5 @@
+from pathlib import Path
+
 from sqlalchemy.ext.asyncio import (
     AsyncSession,
     async_sessionmaker,
@@ -5,7 +7,9 @@ from sqlalchemy.ext.asyncio import (
 )
 from sqlalchemy.orm import DeclarativeBase
 
-DATABASE_URL = "sqlite+aiosqlite:///./app/recipes.db"
+BASE_DIR = Path(__file__).resolve().parent
+DATABASE_FILE = BASE_DIR / "recipes.db"
+DATABASE_URL = f"sqlite+aiosqlite:///{DATABASE_FILE}"
 
 
 class Base(DeclarativeBase):
